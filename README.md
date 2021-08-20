@@ -1,2 +1,2 @@
 # OSSRH-72350
-for uploading fast form android lib to mavencentral
+for uploading android lib group id is io.github.tingbob to mavencentral
